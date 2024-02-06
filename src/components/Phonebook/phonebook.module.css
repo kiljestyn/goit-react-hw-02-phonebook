@@ -12,6 +12,7 @@
   }
   
   .titleSmall {
+    color: #ddd;
     font-size: 16px;
     margin-bottom: 10px;
   }
@@ -23,13 +24,14 @@
   }
   
   .button {
-    background-color: #3b493b;
-    color: white;
+    background-color: rgb(186, 176, 176);
+    color: rgb(254, 244, 244);
     padding: 10px;
     cursor: pointer;
     border: none;
+    font-weight: bold;
   }
   .button:hover,
   .button:focus {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.342);
+    box-shadow: 0 2px 4px rgba(134, 118, 118, 0.342);
   }

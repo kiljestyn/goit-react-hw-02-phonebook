@@ -16,7 +16,7 @@
   }
   
   .button {
-    background-color: darkred;
+    background-color: rgb(241, 3, 3);
     color: white;
     padding: 8px 12px;
     cursor: pointer;

@@ -1,4 +1,4 @@
-.FilterContainer {
+.filterContainer {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -6,7 +6,7 @@
     gap: 10px;
   }
   
-  .Input {
+  .input {
     padding: 10px;
     margin: 5px 0 #fff;
     border: 1px solid;
@@ -20,7 +20,7 @@
     transition: background-color 0.3s ease;
   }
   
-  .Input:hover,
-  .Input:focus {
+  .input:hover,
+  .input:focus {
     background-color: rgba(255, 255, 255, 0.2);
   }
